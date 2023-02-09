@@ -1,0 +1,53 @@
+The main function of this software is to be a fully self-written clone of Civilization. It will take inspiration from other clones such as Freeciv and FreeCol, but will ultimately follow its own direction. The following are the main features I'd like this game to have. These features are not in order of priority.
+
+1) A choice of either the hexagonal grid system from Sid Meier's Civilization IV and subsequent games, or the original square grid.
+2) The ability for the player to select custom playstyles based on the following video games and expansions (as long-term goals):
+* Sid Meier's Colonization
+* Sid Meier's Civilization
+* Sid Meier's Civilization II
+* Sid Meier's Civilization II: Conflicts in Civilization
+* Sid Meier's Civilization II: Fantastic Worlds
+* Sid Meier's Civilization III
+* Sid Meier's Civilization III: Conquests
+* Sid Meier's Civilization III: Play the World
+* Sid Meier's Civilization IV
+* Sid Meier's Civilization IV: Beyond the Sword
+* Sid Meier's Civilization IV: Colonization
+* Sid Meier's Civilization IV: Warlords
+* Sid Meier's Civilization V
+* Sid Meier's Civilization V: Gods and Kings
+* Sid Meier's Civilization V: Brave New World
+* LEKMOD for Sid Meier's Civilization V (i.e. incorporating its changes and additions)
+* Cavemen2Cosmos for Sid Meier's Civilization IV (i.e. incorporating its changes and additions)
+* Civilization: Call to Power
+* Call to Power II
+* Civilization II: Test of Time
+* Sid Meier's Alpha Centauri
+* Sid Meier's Alien Crossfire
+* Sid Meier's Civilization: Beyond Earth
+3) The above custom playstyles should incorporate buildings, improvements, wonders, resources, technology, terrain, and units unique to those games, with the ability to mix-and-match them
+4) Rulesets and game behaviour changes present in all games to be toggleable
+* Unit stacking
+* Defended cities (i.e. if a city has no offensive units can it will be captured or can it fire back and defend)
+* No AI Wonders
+* No AI Settlers
+* Tech web or Tech tree choice
+* Age of planet
+* Humidity of planet
+* Sea level of planet
+* Resource abundance of planet
+5) Translation of in-game strings to other languages.
+6) Multi-player
+7) Achievements
+8) A GUI, likely to be Qt
+9) Save and load functionality
+10) Sound effects and music, when created, to be issued under the Creative Commons CC0 license
+11) Logging
+12) Factions to be represented by all nation states currently on Earth, plus disputed territories, old historical nations, suprenational organisations and select fictional nations
+13) Screenshot support with JPEG and PNG support at minimum
+14) Turn counter and system time counter
+15) Scenarios with specific map placements and objectives
+16) Diplomacy with ability to auto-accept AI trade offers and ignore denouncements and other AI faction announcements
+17) In-game encyclopedia with all game terms
+18) Notifications for players about observed AI actions and domestic events
+19) Visual Assets, when created, to be issued under the Creative Commons CC0 license
